@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978337876539",
+    "firebase_url": "https://crus-produtos-teste.firebaseio.com",
+    "project_id": "crus-produtos-teste",
+    "storage_bucket": "crus-produtos-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978337876539:android:769f09c8fdca002544aa1e",
+        "android_client_info": {
+          "package_name": "com.senacrs.crudprodutosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978337876539-plefnv1k8mvp0dm8ngqfhst46l5r7dg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnz6CY1bi-3Luwt07DsuznU3hjBqn-64w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978337876539-plefnv1k8mvp0dm8ngqfhst46l5r7dg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
